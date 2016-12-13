@@ -1,0 +1,31 @@
+{
+  "name": "compress",
+  "version": "1.0.0",
+  "description": "compress js and css file, dill with static html file",
+  "main": "compress.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "md5": "^2.0.0",
+    "clean-css": "^3.4.9",
+    "uglify-js": "^2.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meiyouqing/compress.git"
+  },
+  "keywords": [
+    "compress",
+    "uglify-js",
+    "clean-css",
+    "build",
+    "static"
+  ],
+  "author": "ljy & Min",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meiyouqing/compress/issues"
+  },
+  "homepage": "https://github.com/meiyouqing/compress#readme"
+}

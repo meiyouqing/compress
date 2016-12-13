@@ -1,0 +1,11 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+#my:
+.project
+.svn
+.idea
+.git
+node_modules
